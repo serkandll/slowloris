@@ -1,4 +1,4 @@
-# Raven-Storm
+# Slowloris
 
 <a style="color: white;" href="https://github.com/Taguar258/Raven-Storm/blob/master/INSTALLATION.md#lazy-installer">Advanced</a> - <a style="color: white;" href="https://github.com/Taguar258/Raven-Storm/blob/master/INSTALLATION.md#or-start-your-unix-terminal-and-type-in-following">Expert</a> - <a style="color: white;" href="https://github.com/Taguar258/Raven-Storm/blob/master/INSTALLATION.md#other-operating-systems">Other operating systems</a> - <a style="color: white;" href="https://github.com/Taguar258/Raven-Storm/blob/master/INSTALLATION.md#uninstall">Uninstall</a>
 
