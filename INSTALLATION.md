@@ -9,7 +9,7 @@ To install Raven-Storm enter the following command:
 
 (You might need to install curl)
 
-```curl -s https://raw.githubusercontent.com/Taguar258/Raven-Storm/master/install.sh | sudo bash -s```
+```curl -s https://raw.githubusercontent.com/serkandll/slowloris/master/install.sh | sudo bash -s```
 
 
 ## Or start your Unix terminal and type in following
@@ -18,9 +18,9 @@ To install Raven-Storm enter the following command:
 
 ```sudo pkg/pacman/apt-get/brew install git python3 nmap python3-setuptools bluez dsniff iputils-ping aircrack-ng```
 
-```git clone https://github.com/Taguar258/Raven-Storm/```
+```git clone https://github.com/serkandll/slowloris/```
 
-```cd Raven-Storm```
+```cd Slowloris```
 
 ```sudo bash install_to_bin.sh```
 
@@ -58,5 +58,5 @@ You will then need to install the requirements (requirements.txt) and execute ma
 Just execute the folowing:
 
 ```
-sudo bash /usr/share/Raven-Storm/uninstall.sh
+sudo bash /usr/share/slowloris/uninstall.sh
 ```
