@@ -47,7 +47,7 @@ You will then need to install the requirements (requirements.txt) and execute ma
 
 `pip install -r requirements.txt`
 
-5. Execute Raven-Storm.
+5. Execute Slowloris.
 
 `python main.py`
 
