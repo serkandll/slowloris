@@ -11,7 +11,6 @@ To install Raven-Storm enter the following command:
 
 ```curl -s https://raw.githubusercontent.com/Taguar258/Raven-Storm/master/install.sh | sudo bash -s```
 
-![render1604868703436](https://user-images.githubusercontent.com/36562445/98484164-d0ec5300-220d-11eb-8fe5-0c9d4d2103e6.gif)
 
 ## Or start your Unix terminal and type in following
 
